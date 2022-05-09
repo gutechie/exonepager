@@ -29,7 +29,7 @@
     </div>
 </header>
 <section id="main" class="bg-deep-cerulean-500">
-    <div class="flex py-16 items-center w-full max-w-6xl mx-auto">
+    <div class="flex pt-16 items-center w-full max-w-6xl mx-auto">
         <div class="w-128 space-y-8 mr-64">
             <h1 class="text-4xl tracking-wider uppercase text-white font-semibold">Forward Thinking Organization</h1>
             <p class="text-sm text-deep-cerulean-100">
@@ -56,7 +56,7 @@
             <a href="#" class="inline-block px-8 py-3 text-sm bg-secondary text-white rounded">View More</a>
         </div>
         <div class="ml-64">
-            <img src="{{ asset('images/product-launch.jpg') }}">
+            <img src="{{ asset('images/product-launch.png') }}">
         </div>
     </div>
 </section>
@@ -64,7 +64,7 @@
 <section id="about-us">
     <div class="flex pt-16 items-center w-full max-w-6xl mx-auto">
         <div>
-            <img src="{{ asset('images/working-woman.jpg') }}">
+            <img src="{{ asset('images/working-woman.png') }}">
         </div>
         <div class="w-128 ml-64">
             <h2 class="uppercase font-bold tracking-wider text-4xl mb-8">About us</h2>
@@ -95,7 +95,7 @@
                             <div class="splide__slide">
                                 <div class="space-y-8">
                                     <div class="flex items-center space-x-8">
-                                        <img src="{{ asset('images/avatar.jpg') }}" class="w-16 h-16 rounded-full">
+                                        <img src="{{ asset('images/avatar.png') }}" class="w-16 h-16 rounded-full">
                                         <div>
                                             <p class="font-bold text-lg text-gray-700">John doe</p>
                                             <p class="text-gray-400 italic">Designation goes here</p>
@@ -115,7 +115,7 @@
                             <div class="splide__slide">
                                 <div class="space-y-8">
                                     <div class="flex items-center space-x-8">
-                                        <img src="{{ asset('images/avatar.jpg') }}" class="w-16 h-16 rounded-full">
+                                        <img src="{{ asset('images/avatar.png') }}" class="w-16 h-16 rounded-full">
                                         <div>
                                             <p class="font-bold text-lg text-gray-700">John doe</p>
                                             <p class="text-gray-400 italic">Designation goes here</p>
@@ -135,7 +135,7 @@
                             <div class="splide__slide">
                                 <div class="space-y-8">
                                     <div class="flex items-center space-x-8">
-                                        <img src="{{ asset('images/avatar.jpg') }}" class="w-16 h-16 rounded-full">
+                                        <img src="{{ asset('images/avatar.png') }}" class="w-16 h-16 rounded-full">
                                         <div>
                                             <p class="font-bold text-lg text-gray-700">John doe</p>
                                             <p class="text-gray-400 italic">Designation goes here</p>
@@ -175,19 +175,19 @@
                     <div class="splide__track">
                         <ul class="splide__list">
                             <li class="splide__slide">
-                                <img src="{{ asset('images/rnd_one.jpg') }}" alt="slide 1"
+                                <img src="{{ asset('images/rnd_one.png') }}" alt="slide 1"
                                      class="w-full h-auto rounded shadow-lg">
                             </li>
                             <li class="splide__slide">
-                                <img src="{{ asset('images/rnd_two.jpg') }}" alt="slide 2"
+                                <img src="{{ asset('images/rnd_two.png') }}" alt="slide 2"
                                      class="w-full h-auto rounded shadow-lg">
                             </li>
                             <li class="splide__slide">
-                                <img src="{{ asset('images/rnd_three.jpg') }}" alt="slide 3"
+                                <img src="{{ asset('images/rnd_three.png') }}" alt="slide 3"
                                      class="w-full h-auto rounded shadow-lg">
                             </li>
                             <li class="splide__slide">
-                                <img src="{{ asset('images/rnd_four.jpg') }}" alt="slide 3"
+                                <img src="{{ asset('images/rnd_four.png') }}" alt="slide 3"
                                      class="w-full h-auto rounded shadow-lg">
                             </li>
                         </ul>
@@ -220,7 +220,7 @@
             <div class="splide__list">
                 <div class="splide__slide">
                     <div class="flex border space-x-12 items-center w-full max-w-3xl mx-auto">
-                        <img src="{{ asset('images/avatar.jpg') }}" class="w-64 h-64 object-cover">
+                        <img src="{{ asset('images/avatar.png') }}" class="w-64 h-64 object-cover">
                         <div>
                             <p class="font-bold">John doe</p>
                             <p>Director</p>
@@ -233,7 +233,7 @@
                 </div>
                 <div class="splide__slide">
                     <div class="flex border space-x-12 items-center w-full max-w-3xl mx-auto">
-                        <img src="{{ asset('images/avatar.jpg') }}" class="w-64 h-64 object-cover">
+                        <img src="{{ asset('images/avatar.png') }}" class="w-64 h-64 object-cover">
                         <div>
                             <p class="font-bold">John doe</p>
                             <p>Director</p>
@@ -246,7 +246,7 @@
                 </div>
                 <div class="splide__slide">
                     <div class="flex border space-x-12 items-center w-full max-w-3xl mx-auto">
-                        <img src="{{ asset('images/avatar.jpg') }}" class="w-64 h-64 object-cover">
+                        <img src="{{ asset('images/avatar.png') }}" class="w-64 h-64 object-cover">
                         <div>
                             <p class="font-bold">John doe</p>
                             <p>Director</p>
@@ -290,7 +290,7 @@
                 <div class="splide__list">
                     <div class="splide__slide">
                         <div class="flex items-center h-96 w-screen">
-                            <img src="{{ asset('images/avatar.jpg') }}" class="w-1/2 h-full object-cover">
+                            <img src="{{ asset('images/child-counselling.png') }}" class="w-1/2 h-full object-cover">
                             <div class="w-1/2 bg-deep-cerulean-600 h-full">
                                 <p class="text-white w-full max-w-xl px-16 py-32 text-xl tracking-wide">
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet deleniti dignissimos
@@ -301,7 +301,7 @@
                     </div>
                     <div class="splide__slide">
                         <div class="flex items-center h-96 w-screen">
-                            <img src="{{ asset('images/avatar.jpg') }}" class="w-1/2 h-full object-cover">
+                            <img src="{{ asset('images/child-counselling.png') }}" class="w-1/2 h-full object-cover">
                             <div class="w-1/2 bg-deep-cerulean-600 h-full">
                                 <p class="text-white w-full max-w-xl px-16 py-32 text-xl tracking-wide">
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet deleniti dignissimos
@@ -312,7 +312,7 @@
                     </div>
                     <div class="splide__slide">
                         <div class="flex items-center h-96 w-screen">
-                            <img src="{{ asset('images/avatar.jpg') }}" class="w-1/2 h-full object-cover">
+                            <img src="{{ asset('images/child-counselling.png') }}" class="w-1/2 h-full object-cover">
                             <div class="w-1/2 bg-deep-cerulean-600 h-full">
                                 <p class="text-white w-full max-w-xl px-16 py-32 text-xl tracking-wide">
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet deleniti dignissimos
